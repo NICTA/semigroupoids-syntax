@@ -11,15 +11,15 @@ description:
   <<http://i.imgur.com/Ns5hntl.jpg>>
   .
   RebindableSyntax using the semigroupoids package
-homepage:           https://github.com/nicta/semigroupoids-syntax
-bug-reports:        https://github.com/nicta/semigroupoids-syntax/issues
+homepage:           https://github.com/NICTA/semigroupoids-syntax
+bug-reports:        https://github.com/NICTA/semigroupoids-syntax/issues
 cabal-version:      >= 1.10
 build-type:         Custom
 extra-source-files: changelog
 
 source-repository   head
   type:             git
-  location:         git@github.com:nicta/semigroupoids-syntax.git
+  location:         git@github.com:NICTA/semigroupoids-syntax.git
 
 flag                small_base
   description:      Choose the new, split-up base package.
